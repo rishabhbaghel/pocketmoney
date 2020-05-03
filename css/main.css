@@ -1,0 +1,23 @@
+.site-header{
+    background-color:rgba(8, 131, 34, 0.836);
+    color: black;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.site-content{
+    margin: 10px;
+}
+.profile-pic {
+    border-radius: 50%;
+    align-self: center;
+}
+.course-link{
+    color: floralwhite;
+}
+body {
+    margin: 0em;
+}
